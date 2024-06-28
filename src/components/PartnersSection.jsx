@@ -3,11 +3,11 @@ import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import { motion } from 'framer-motion';
-import partner1 from '../assets/11.jpg'; // Example partner logo image
-import partner2 from '../assets/12.jpg'; // Example partner logo image
-import partner3 from '../assets/24.jpg'; // Example partner logo image
-import partner4 from '../assets/41.jpg'; // Example partner logo image
-import partner5 from '../assets/678.jpg'; // Example partner logo image 
+import partner1 from '../assets/11.webp'; // Example partner logo image
+import partner2 from '../assets/12.webp'; // Example partner logo image
+import partner3 from '../assets/24.webp'; // Example partner logo image
+import partner4 from '../assets/41.webp'; // Example partner logo image
+import partner5 from '../assets/678.webp'; // Example partner logo image 
 
 function PartnersSection() {
   const partners = [

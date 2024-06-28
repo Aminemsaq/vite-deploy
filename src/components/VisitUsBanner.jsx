@@ -1,5 +1,5 @@
 import { BiStore } from 'react-icons/bi'; // Importing an example icon from react-icons library
-import visitUsBackground from '../assets/pharmacist-work.jpg'; // Replace with your image path
+import visitUsBackground from '../assets/pharmacist-work.webp'; // Replace with your image path
 
 function VisitUsBanner() {
   // Title and help text content

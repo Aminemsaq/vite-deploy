@@ -1,5 +1,5 @@
 /* eslint-disable react/no-unescaped-entities */
-import image1 from '../assets/image-hero.jpg'; // Replace with your image path
+import image1 from '../assets/image-hero.webp'; // Replace with your image path
 
 function HeroSection() {
   const scrollToNextSection = () => {

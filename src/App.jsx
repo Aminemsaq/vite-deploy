@@ -21,7 +21,7 @@ export default function App() {
           setIsLoading(false);
           return 100;
         } else {
-          return prevProgress + 10; // Increase progress by 10 every interval
+          return prevProgress + 30; // Increase progress by 10 every interval
         }
       });
     }, 200); // Interval time for simulating progress

@@ -2,17 +2,17 @@ import { useState, useEffect, useRef } from 'react';
 import { motion } from 'framer-motion';
 
 // Import your images
-import image1 from '../assets/young-woman-cleansing-face-after-makeup.png';
-import image2 from '../assets/collection-beauty-products-with-copy-space.png';
-import image3 from '../assets/moisturizer-beautiful-female-model.png';
-import image4 from '../assets/woman-with-curly-hair-flower-it-from.png';
-import image5 from '../assets/postnatal-period-with-mother-child.png';
-import image6 from '../assets/handsome-shirtless-man-wiping-his-face-using-towel-while-standing-against-white-background.png';
-import image7 from '../assets/close-up-woman-is-washing-soap-foam-from-her-hands-running-water.png';
-import image8 from '../assets/beautiful-young-woman-with-clean-fresh-skin-look-away-girl-beauty-face-care-facial-treatment-cosmeto.png';
-import image9 from '../assets/medical-workers-covid-pandemic-coronavirus-concept-professional-female-doctor-physician-face-mask.png';
+import image1 from '../assets/young-woman-cleansing-face-after-makeup.webp';
+import image2 from '../assets/collection-beauty-products-with-copy-space.webp';
+import image3 from '../assets/moisturizer-beautiful-female-model.webp';
+import image4 from '../assets/woman-with-curly-hair-flower-it-from.webp';
+import image5 from '../assets/postnatal-period-with-mother-child.webp';
+import image6 from '../assets/handsome-shirtless-man-wiping-his-face-using-towel-while-standing-against-white-background.webp';
+import image7 from '../assets/close-up-woman-is-washing-soap-foam-from-her-hands-running-water.webp';
+import image8 from '../assets/beautiful-young-woman-with-clean-fresh-skin-look-away-girl-beauty-face-care-facial-treatment-cosmeto.webp';
+import image9 from '../assets/medical-workers-covid-pandemic-coronavirus-concept-professional-female-doctor-physician-face-mask.webp';
 import image10 from '../assets/redresse-dos-tonus-e1091-.webp';
-import image11 from '../assets/argan-maroc-produits-cosmetique-bio-agadir.png';
+import image11 from '../assets/argan-maroc-produits-cosmetique-bio-agadir.webp';
 
 // Example data for product categories (replace with your actual data)
 const productCategories = [
