@@ -44,11 +44,11 @@ module.exports = {
     // Configure deployment options, including target environments and deployment scripts
   }
 };
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Contributing
 Contributions are welcome! Please review the CONTRIBUTING.md file for guidelines.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 Support
 For questions or issues, please contact Aminemsaq.
