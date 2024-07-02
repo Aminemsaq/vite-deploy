@@ -1,18 +1,22 @@
-vite-deploy
-vite-deploy simplifies the deployment process for Vite.js applications, offering customizable configurations and streamlined deployment workflows.
+# vite-deploy
 
-Overview
-Managing deployments for Vite.js applications can be complex. vite-deploy aims to simplify this process by providing an easy-to-use CLI tool that automates deployment tasks. Whether you're deploying to a staging environment or preparing for production, vite-deploy ensures a smooth and efficient deployment experience.
+**vite-deploy** simplifies the deployment process for Vite.js applications, offering customizable configurations and streamlined deployment workflows.
 
-Key Features
-Simplified Deployment: Automates build and deployment tasks, reducing manual effort.
-Customizable Configurations: Tailor deployment settings to match different environments and deployment strategies.
-Optimized Performance: Leveraging Vite's fast bundling and hot-reloading capabilities for efficient deployments.
-Installation
-Install vite-deploy globally via npm:
+## Overview
 
-bash
-Copy code
+Managing deployments for Vite.js applications can be complex. **vite-deploy** aims to simplify this process by providing an easy-to-use CLI tool that automates deployment tasks. Whether you're deploying to a staging environment or preparing for production, **vite-deploy** ensures a smooth and efficient deployment experience.
+
+## Key Features
+
+- **Simplified Deployment**: Automates build and deployment tasks, reducing manual effort.
+- **Customizable Configurations**: Tailor deployment settings to match different environments and deployment strategies.
+- **Optimized Performance**: Leveraging Vite's fast bundling and hot-reloading capabilities for efficient deployments.
+
+## Installation
+
+Install **vite-deploy** globally via npm:
+
+```bash
 npm install -g vite-deploy
 Or locally in your project:
 
